@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@pnpm-workspace/share": "workspace:*",
+    "@pnpm-workspace/utils": "workspace:*",
     "vue": "^3.3.11"
   },
   "devDependencies": {
